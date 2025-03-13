@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\coursecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\coursecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\coursecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\coursecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33894554-37FC-466C-8942-96708A400B8D}|efProject\\efProject.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33894554-37FC-466C-8942-96708A400B8D}|efProject\\efProject.csproj|solutionrelative:efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\departmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\departmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\departmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\departmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\instructorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\instructorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\instructorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\instructorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\ef\\project\\efproject\\mangment\\context\\efiticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED3F2DD-DCEF-4FEE-8B2B-96BA0E4A1328}|mangment\\mangment.csproj|solutionrelative:mangment\\context\\efiticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\efProject\\Program.cs",
+              "RelativeDocumentMoniker": "efProject\\Program.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\efProject\\Program.cs",
+              "RelativeToolTip": "efProject\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwMYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:19:51.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:823299570:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseControl.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\CourseControl.cs",
+              "RelativeDocumentMoniker": "mangment\\CourseControl.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\CourseControl.cs",
+              "RelativeToolTip": "mangment\\CourseControl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseControl.cs [Design]",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\CourseControl.cs",
+              "RelativeDocumentMoniker": "mangment\\CourseControl.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\CourseControl.cs [Design]",
+              "RelativeToolTip": "mangment\\CourseControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:18:11.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departmentcontrol.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Departmentcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\Departmentcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Departmentcontrol.cs",
+              "RelativeToolTip": "mangment\\Departmentcontrol.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAJIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:54:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Form1.cs",
+              "RelativeDocumentMoniker": "mangment\\Form1.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Form1.cs [Design]",
+              "RelativeToolTip": "mangment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:33:28.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Form1.cs",
+              "RelativeDocumentMoniker": "mangment\\Form1.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Form1.cs",
+              "RelativeToolTip": "mangment\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:47:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Departmentcontrol.cs [Design]",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Departmentcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\Departmentcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Departmentcontrol.cs [Design]",
+              "RelativeToolTip": "mangment\\Departmentcontrol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:49:43.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "instructorcontrol.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\instructorcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\instructorcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\instructorcontrol.cs",
+              "RelativeToolTip": "mangment\\instructorcontrol.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:21:23.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "instructorcontrol.cs [Design]",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\instructorcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\instructorcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\instructorcontrol.cs [Design]",
+              "RelativeToolTip": "mangment\\instructorcontrol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:17:53.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Studentcontrol.cs [Design]",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Studentcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\Studentcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Studentcontrol.cs [Design]",
+              "RelativeToolTip": "mangment\\Studentcontrol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:17:48.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Studentcontrol.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Studentcontrol.cs",
+              "RelativeDocumentMoniker": "mangment\\Studentcontrol.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Studentcontrol.cs",
+              "RelativeToolTip": "mangment\\Studentcontrol.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:07:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "mangment\\Models\\Instructor.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Models\\Instructor.cs",
+              "RelativeToolTip": "mangment\\Models\\Instructor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:29:02.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mangment\\Models\\Student.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Models\\Student.cs",
+              "RelativeToolTip": "mangment\\Models\\Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:41:04.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFITIContext.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Context\\EFITIContext.cs",
+              "RelativeDocumentMoniker": "mangment\\Context\\EFITIContext.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\EF\\project\\efProject\\mangment\\Context\\EFITIContext.cs",
+              "RelativeToolTip": "mangment\\Context\\EFITIContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA/wCkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:14:25.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
