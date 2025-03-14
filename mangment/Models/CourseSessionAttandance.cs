@@ -30,4 +30,5 @@ public partial class CourseSessionAttandance
     [ForeignKey("StudentID")]
     [InverseProperty("CourseSessionAttandances")]
     public virtual Student? Student { get; set; }
+
 }

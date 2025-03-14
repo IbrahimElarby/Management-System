@@ -33,6 +33,8 @@ namespace mangment
             db.Departments.Load();
             selecteddepartment.DataSource = db.Departments.Local.ToBindingList();
             departmentGridView.DataSource = db.Departments.Local.ToBindingList();
+            departmentGridView.Columns.Remove("Courses");
+            departmentGridView.Columns.Remove("Instructors");
             selecteddepartment.DisplayMember = "Name";
             selecteddepartment.ValueMember = "DepartmentId";
             db.Instructors.Load();
@@ -129,9 +131,9 @@ namespace mangment
             DialogResult dialogResult = MessageBox.Show("Are you sure you want to delete this Department?", "Confirm Deletion", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
             {
-                db.Departments.Remove(s);
                 try
                 {
+                db.Departments.Remove(s);
                     db.SaveChanges();
                     MessageBox.Show("Department deleted successfully.");
                     reset();

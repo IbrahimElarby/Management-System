@@ -145,10 +145,10 @@
             // 
             departmentGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             departmentGridView.GridColor = Color.SaddleBrown;
-            departmentGridView.Location = new Point(57, 16);
+            departmentGridView.Location = new Point(140, 16);
             departmentGridView.Name = "departmentGridView";
             departmentGridView.RowHeadersWidth = 51;
-            departmentGridView.Size = new Size(798, 318);
+            departmentGridView.Size = new Size(712, 318);
             departmentGridView.TabIndex = 32;
             // 
             // name

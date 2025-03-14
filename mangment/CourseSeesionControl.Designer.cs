@@ -1,6 +1,6 @@
 ﻿namespace mangment
 {
-    partial class CourseControl
+    partial class CourseSeesionControl
     {
         /// <summary> 
         /// Required designer variable.
@@ -31,18 +31,18 @@
             label2 = new Label();
             selectedinstructor = new ComboBox();
             label1 = new Label();
-            selecteddepartment = new ComboBox();
+            selectedcourse = new ComboBox();
             insertbtnd = new Button();
             updatebtnd = new Button();
             deletebtnd = new Button();
-            selectedcourse = new ComboBox();
+            selectedcoursesession = new ComboBox();
             label5 = new Label();
             label4 = new Label();
-            duration = new TextBox();
-            courseGridView = new DataGridView();
-            name = new TextBox();
+            date = new TextBox();
+            coursesessionGridView = new DataGridView();
+            title = new TextBox();
             loadbtn = new Button();
-            ((System.ComponentModel.ISupportInitialize)courseGridView).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)coursesessionGridView).BeginInit();
             SuspendLayout();
             // 
             // label2
@@ -50,151 +50,150 @@
             label2.AutoSize = true;
             label2.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.SaddleBrown;
-            label2.Location = new Point(876, 303);
+            label2.Location = new Point(894, 315);
             label2.Name = "label2";
             label2.Size = new Size(111, 25);
-            label2.TabIndex = 85;
+            label2.TabIndex = 99;
             label2.Text = "instructor";
             // 
             // selectedinstructor
             // 
             selectedinstructor.ForeColor = Color.SaddleBrown;
             selectedinstructor.FormattingEnabled = true;
-            selectedinstructor.Location = new Point(876, 331);
+            selectedinstructor.Location = new Point(894, 343);
             selectedinstructor.Name = "selectedinstructor";
             selectedinstructor.Size = new Size(257, 28);
-            selectedinstructor.TabIndex = 84;
+            selectedinstructor.TabIndex = 98;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.SaddleBrown;
-            label1.Location = new Point(876, 223);
+            label1.Location = new Point(894, 235);
             label1.Name = "label1";
-            label1.Size = new Size(134, 25);
-            label1.TabIndex = 83;
-            label1.Text = "Department";
+            label1.Size = new Size(84, 25);
+            label1.TabIndex = 97;
+            label1.Text = "Course";
             // 
-            // selecteddepartment
+            // selectedcourse
             // 
-            selecteddepartment.ForeColor = Color.SaddleBrown;
-            selecteddepartment.FormattingEnabled = true;
-            selecteddepartment.Location = new Point(876, 263);
-            selecteddepartment.Name = "selecteddepartment";
-            selecteddepartment.Size = new Size(257, 28);
-            selecteddepartment.TabIndex = 82;
+            selectedcourse.ForeColor = Color.SaddleBrown;
+            selectedcourse.FormattingEnabled = true;
+            selectedcourse.Location = new Point(894, 275);
+            selectedcourse.Name = "selectedcourse";
+            selectedcourse.Size = new Size(257, 28);
+            selectedcourse.TabIndex = 96;
             // 
             // insertbtnd
             // 
             insertbtnd.BackColor = Color.SaddleBrown;
             insertbtnd.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             insertbtnd.ForeColor = Color.White;
-            insertbtnd.Location = new Point(690, 377);
+            insertbtnd.Location = new Point(708, 389);
             insertbtnd.Name = "insertbtnd";
             insertbtnd.Size = new Size(128, 53);
-            insertbtnd.TabIndex = 81;
+            insertbtnd.TabIndex = 95;
             insertbtnd.Text = "Insert";
             insertbtnd.UseVisualStyleBackColor = false;
-            insertbtnd.Click += insertbtnd_Click_1;
+            insertbtnd.Click += insertbtnd_Click;
             // 
             // updatebtnd
             // 
             updatebtnd.BackColor = Color.SaddleBrown;
             updatebtnd.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             updatebtnd.ForeColor = Color.White;
-            updatebtnd.Location = new Point(413, 377);
+            updatebtnd.Location = new Point(431, 389);
             updatebtnd.Name = "updatebtnd";
             updatebtnd.Size = new Size(128, 53);
-            updatebtnd.TabIndex = 80;
+            updatebtnd.TabIndex = 94;
             updatebtnd.Text = "Update";
             updatebtnd.UseVisualStyleBackColor = false;
-            updatebtnd.Click += updatebtnd_Click_1;
+            updatebtnd.Click += updatebtnd_Click;
             // 
             // deletebtnd
             // 
             deletebtnd.BackColor = Color.SaddleBrown;
             deletebtnd.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             deletebtnd.ForeColor = Color.White;
-            deletebtnd.Location = new Point(143, 377);
+            deletebtnd.Location = new Point(161, 389);
             deletebtnd.Name = "deletebtnd";
             deletebtnd.Size = new Size(128, 53);
-            deletebtnd.TabIndex = 79;
+            deletebtnd.TabIndex = 93;
             deletebtnd.Text = "Delete";
             deletebtnd.UseVisualStyleBackColor = false;
-            deletebtnd.Click += deletebtnd_Click_1;
+            deletebtnd.Click += deletebtnd_Click;
             // 
-            // selectedcourse
+            // selectedcoursesession
             // 
-            selectedcourse.ForeColor = Color.SaddleBrown;
-            selectedcourse.FormattingEnabled = true;
-            selectedcourse.Location = new Point(876, 19);
-            selectedcourse.Name = "selectedcourse";
-            selectedcourse.Size = new Size(257, 28);
-            selectedcourse.TabIndex = 78;
-            selectedcourse.SelectedIndexChanged += selectedcourse_SelectedIndexChanged_1;
+            selectedcoursesession.ForeColor = Color.SaddleBrown;
+            selectedcoursesession.FormattingEnabled = true;
+            selectedcoursesession.Location = new Point(894, 31);
+            selectedcoursesession.Name = "selectedcoursesession";
+            selectedcoursesession.Size = new Size(257, 28);
+            selectedcoursesession.TabIndex = 92;
+            selectedcoursesession.SelectedIndexChanged += selectedcoursesession_SelectedIndexChanged;
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.ForeColor = Color.SaddleBrown;
-            label5.Location = new Point(876, 142);
+            label5.Location = new Point(894, 154);
             label5.Name = "label5";
-            label5.Size = new Size(102, 25);
-            label5.TabIndex = 77;
-            label5.Text = "Duration";
+            label5.Size = new Size(60, 25);
+            label5.TabIndex = 91;
+            label5.Text = "Date";
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.ForeColor = Color.SaddleBrown;
-            label4.Location = new Point(876, 69);
+            label4.Location = new Point(894, 81);
             label4.Name = "label4";
-            label4.Size = new Size(71, 25);
-            label4.TabIndex = 76;
-            label4.Text = "Name";
+            label4.Size = new Size(56, 25);
+            label4.TabIndex = 90;
+            label4.Text = "Title";
             // 
-            // duration
+            // date
             // 
-            duration.Location = new Point(876, 180);
-            duration.Name = "duration";
-            duration.Size = new Size(251, 27);
-            duration.TabIndex = 75;
+            date.Location = new Point(894, 192);
+            date.Name = "date";
+            date.Size = new Size(251, 27);
+            date.TabIndex = 89;
             // 
-            // courseGridView
+            // coursesessionGridView
             // 
-            courseGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            courseGridView.GridColor = Color.SaddleBrown;
-            courseGridView.Location = new Point(20, 19);
-            courseGridView.Name = "courseGridView";
-            courseGridView.RowHeadersWidth = 51;
-            courseGridView.Size = new Size(798, 340);
-            courseGridView.TabIndex = 74;
+            coursesessionGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            coursesessionGridView.GridColor = Color.SaddleBrown;
+            coursesessionGridView.Location = new Point(38, 31);
+            coursesessionGridView.Name = "coursesessionGridView";
+            coursesessionGridView.RowHeadersWidth = 51;
+            coursesessionGridView.Size = new Size(798, 340);
+            coursesessionGridView.TabIndex = 88;
             // 
-            // name
+            // title
             // 
-            name.Location = new Point(876, 97);
-            name.Name = "name";
-            name.Size = new Size(251, 27);
-            name.TabIndex = 73;
-            //name.TextChanged += name_TextChanged;
+            title.Location = new Point(894, 109);
+            title.Name = "title";
+            title.Size = new Size(251, 27);
+            title.TabIndex = 87;
             // 
             // loadbtn
             // 
             loadbtn.BackColor = Color.SaddleBrown;
             loadbtn.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             loadbtn.ForeColor = Color.White;
-            loadbtn.Location = new Point(939, 377);
+            loadbtn.Location = new Point(957, 389);
             loadbtn.Name = "loadbtn";
             loadbtn.Size = new Size(128, 53);
-            loadbtn.TabIndex = 72;
+            loadbtn.TabIndex = 86;
             loadbtn.Text = "Load";
             loadbtn.UseVisualStyleBackColor = false;
-            loadbtn.Click += loadbtn_Click_1;
+            loadbtn.Click += loadbtn_Click;
             // 
-            // CourseControl
+            // CourseSeesionControl
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -202,20 +201,21 @@
             Controls.Add(label2);
             Controls.Add(selectedinstructor);
             Controls.Add(label1);
-            Controls.Add(selecteddepartment);
+            Controls.Add(selectedcourse);
             Controls.Add(insertbtnd);
             Controls.Add(updatebtnd);
             Controls.Add(deletebtnd);
-            Controls.Add(selectedcourse);
+            Controls.Add(selectedcoursesession);
             Controls.Add(label5);
             Controls.Add(label4);
-            Controls.Add(duration);
-            Controls.Add(courseGridView);
-            Controls.Add(name);
+            Controls.Add(date);
+            Controls.Add(coursesessionGridView);
+            Controls.Add(title);
             Controls.Add(loadbtn);
-            Name = "CourseControl";
-            Size = new Size(1161, 511);
-            ((System.ComponentModel.ISupportInitialize)courseGridView).EndInit();
+            Name = "CourseSeesionControl";
+            Size = new Size(1188, 473);
+            Load += CourseSeesionControl_Load;
+            ((System.ComponentModel.ISupportInitialize)coursesessionGridView).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -225,16 +225,16 @@
         private Label label2;
         private ComboBox selectedinstructor;
         private Label label1;
-        private ComboBox selecteddepartment;
+        private ComboBox selectedcourse;
         private Button insertbtnd;
         private Button updatebtnd;
         private Button deletebtnd;
-        private ComboBox selectedcourse;
+        private ComboBox selectedcoursesession;
         private Label label5;
         private Label label4;
-        private TextBox duration;
-        private DataGridView courseGridView;
-        private TextBox name;
+        private TextBox date;
+        private DataGridView coursesessionGridView;
+        private TextBox title;
         private Button loadbtn;
     }
 }

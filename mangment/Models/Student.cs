@@ -29,4 +29,9 @@ public partial class Student
     public virtual ICollection<CourseStudent> CourseStudents { get; set; } = new List<CourseStudent>();
     [NotMapped] // EF Core should ignore this in the database
     public string FullName => $"{FName} {LName}";
+
+    public override string ToString()
+    {
+        return $"{FullName}";
+    }
 }

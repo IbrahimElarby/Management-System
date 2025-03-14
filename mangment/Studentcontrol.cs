@@ -26,6 +26,8 @@ namespace mangment
 
             db.Students.Load();
             studentGridView.DataSource = db.Students.Local.ToBindingList();
+            studentGridView.Columns.Remove("CourseSessionAttandances");
+            studentGridView.Columns.Remove("CourseStudents");
             selectedstudent.DataSource = db.Students.Local.ToBindingList();
             selectedstudent.DisplayMember = "FullName";
             selectedstudent.ValueMember = "Id";

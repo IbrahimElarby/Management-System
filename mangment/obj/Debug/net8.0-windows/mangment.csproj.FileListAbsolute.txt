@@ -123,3 +123,6 @@ F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\ob
 F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.instructorcontrol.resources
 F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.Departmentcontrol.resources
 F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.CourseControl.resources
+F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.sourcelink.json
+F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.CourseSeesionControl.resources
+F:\iti 4 month\offline courses\web courses\.NET\EF\project\efProject\mangment\obj\Debug\net8.0-windows\mangment.Properties.Resources.resources

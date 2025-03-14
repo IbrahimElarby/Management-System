@@ -33,4 +33,9 @@ public partial class CouresSession
     [ForeignKey("InstructorID")]
     [InverseProperty("CouresSessions")]
     public virtual Instructor? Instructor { get; set; }
+
+    public override string ToString()
+    {
+        return $"{Title}";
+    }
 }

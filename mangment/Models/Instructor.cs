@@ -40,4 +40,9 @@ public partial class Instructor
 
     [NotMapped] // EF Core should ignore this in the database
     public string FullName => $"{FName} {LName}";
+
+    public override string ToString()
+    {
+        return $"{FullName}";
+    }
 }

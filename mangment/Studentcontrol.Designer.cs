@@ -68,10 +68,10 @@
             // 
             studentGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             studentGridView.GridColor = Color.SaddleBrown;
-            studentGridView.Location = new Point(13, 15);
+            studentGridView.Location = new Point(97, 20);
             studentGridView.Name = "studentGridView";
             studentGridView.RowHeadersWidth = 51;
-            studentGridView.Size = new Size(798, 318);
+            studentGridView.Size = new Size(746, 318);
             studentGridView.TabIndex = 4;
             // 
             // lastname

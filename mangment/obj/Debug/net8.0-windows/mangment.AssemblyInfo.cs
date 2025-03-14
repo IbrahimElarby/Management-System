@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mangment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50ae6c46352744705109f201d3299541a96a5df")]
 [assembly: System.Reflection.AssemblyProductAttribute("mangment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mangment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

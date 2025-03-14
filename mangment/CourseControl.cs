@@ -26,7 +26,15 @@ namespace mangment
             duration.Text = "";
 
         }
-        private void loadbtn_Click(object sender, EventArgs e)
+
+
+
+
+        
+
+      
+
+        private void loadbtn_Click_1(object sender, EventArgs e)
         {
             db.Courses.Load();
             courseGridView.DataSource = db.Courses.Local.ToBindingList();
@@ -41,9 +49,13 @@ namespace mangment
             selectedinstructor.DataSource = db.Instructors.Local.ToBindingList();
             selectedinstructor.DisplayMember = "FullName";
             selectedinstructor.ValueMember = "Id";
+
+            courseGridView.Columns.Remove("CouresSessions");
+            courseGridView.Columns.Remove("CourseStudents");
+
         }
 
-        private void selectedcourse_SelectedIndexChanged(object sender, EventArgs e)
+        private void selectedcourse_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             if (selectedcourse.SelectedValue != null && int.TryParse(selectedcourse.SelectedValue.ToString(), out int courseId))
             {
@@ -57,7 +69,8 @@ namespace mangment
                 }
             }
         }
-        private void insertbtnd_Click(object sender, EventArgs e)
+
+        private void insertbtnd_Click_1(object sender, EventArgs e)
         {
 
             if (string.IsNullOrWhiteSpace(name.Text) || string.IsNullOrWhiteSpace(duration.Text) ||
@@ -89,7 +102,7 @@ namespace mangment
             }
         }
 
-        private void updatebtnd_Click(object sender, EventArgs e)
+        private void updatebtnd_Click_1(object sender, EventArgs e)
         {
             var s = db.Courses.Find((int)selectedcourse.SelectedValue);
 
@@ -115,8 +128,9 @@ namespace mangment
             }
         }
 
-        private void deletebtnd_Click(object sender, EventArgs e)
+        private void deletebtnd_Click_1(object sender, EventArgs e)
         {
+
             if (selectedcourse.SelectedValue == null || !int.TryParse(selectedcourse.SelectedValue.ToString(), out int courseId))
             {
                 MessageBox.Show("Please select a valid course.");

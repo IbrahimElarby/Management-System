@@ -47,5 +47,15 @@ namespace mangment
 
             panel1.Controls.Add(course);
         }
+
+        private void courseseesionviewbtn_Click(object sender, EventArgs e)
+        {
+            panel1.Controls.Clear();
+            CourseSeesionControl course = new CourseSeesionControl();
+
+            course.Dock = DockStyle.Fill;
+
+            panel1.Controls.Add(course);
+        }
     }
 }

@@ -4,6 +4,9 @@
     <Compile Update="CourseControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="CourseSeesionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Departmentcontrol.cs">
       <SubType>UserControl</SubType>
     </Compile>

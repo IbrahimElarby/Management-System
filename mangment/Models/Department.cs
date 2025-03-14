@@ -31,4 +31,9 @@ public partial class Department
     [ForeignKey("MangerId")]
     [InverseProperty("Departments")]
     public virtual Instructor? Manger { get; set; }
+
+    public override string ToString()
+    {
+        return $"{Name}";
+    }
 }
